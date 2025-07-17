@@ -1,0 +1,23 @@
+# 编译产物
+.vs/
+*.ilk
+*.pdb
+*.lib
+*.exe
+*.dll
+*.obj
+*.o
+*.log
+*.idb
+*.ipch
+*.tlog
+*.tmp
+*.cache
+*.sdf
+*.opensdf
+
+# 构建目录
+x64/
+build/
+Debug/
+Release/
